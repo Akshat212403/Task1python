@@ -1,0 +1,8 @@
+
+sum = 0
+
+
+for i in range(1, 51):
+    sum += i
+
+print(" sum of the first 50 natural no is:", sum)
