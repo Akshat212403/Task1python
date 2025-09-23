@@ -1,0 +1,1 @@
+<content of as1-2.py>
