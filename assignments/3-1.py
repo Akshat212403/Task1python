@@ -1,9 +1,26 @@
+#question1 -assignment 3
 def fact(n):
   if n ==0 or n==1:
    return 1
 
   else: 
    return n*fact(n-1)
-num = int(input("enter any number"))
+num = int(input("enter  number for factorial : "))
 print("factorial of",num,"is",fact(num))    
-5
+
+
+
+
+#q2  -assignment3
+
+import math
+print ("enter any number")
+n = int (input ("enter any number"))
+print(math.pow(n,2))  
+print(math.pi)
+print (math.sqrt(n))
+print(math.factorial(n))
+print(math.gcd(n,10))  
+print(math.sin(n))     
+print(math.cos(n))
+print(math.tan(n))    
