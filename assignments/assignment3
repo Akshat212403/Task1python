@@ -1,3 +1,5 @@
+# question :1 assignment:3
+
 def fact(n):
   if n ==0 or n==1:
    return 1
@@ -10,7 +12,7 @@ print("factorial of",num,"is",fact(num))
 
 
 
-#q2 assignment3
+#question 2 assignment3
 
 import math
 print ("enter any number")
