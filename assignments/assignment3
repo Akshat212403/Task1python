@@ -10,7 +10,7 @@ num = int(input("enter  number for factorial : "))
 print("factorial of",num,"is",fact(num))    
 
 
-
+#if only eperate files are accpetedkindly visit 3-1.py and 3.2.py..
 
 #question 2 assignment3
 
