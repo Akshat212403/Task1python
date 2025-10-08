@@ -1,0 +1,11 @@
+import math
+print ("enter any number")
+n = int (input ("enter any number"))
+print(math.pow(n,2))  
+print(math.pi)
+print (math.sqrt(n))
+print(math.factorial(n))
+print(math.gcd(n,10))  
+print(math.sin(n))     
+print(math.cos(n))
+print(math.tan(n))    
